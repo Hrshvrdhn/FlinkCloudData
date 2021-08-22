@@ -1,4 +1,4 @@
-package code.data.python.flink
+package code.data.scala.flink
 
 object HelloWorld {
 
